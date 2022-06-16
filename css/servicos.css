@@ -1,0 +1,78 @@
+.servicos {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: sienna;
+}
+
+.servicos__titulo {
+    color: khaki;
+    font-weight: 700;
+    font-size: 1.5rem;
+    font-family: var(--montserrat);
+    text-transform: uppercase;
+    text-align: center;
+
+    margin-bottom: 1.25rem;
+}
+
+.servicos__texto {
+    color: khaki;
+    line-height: normal;
+
+    margin-bottom: 1rem;
+}
+
+.servicos__texto--destaque {
+    color: darkkhaki;
+    font-weight: 700;
+}
+
+.servicos__imagem {
+    width: 430px;
+    height: 300px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    max-width: 100vw;
+}
+
+.servicos__imagem-2 {
+    width: 500px;
+    height: 330px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+     max-width: 100vw;
+}
+
+.servicos__imagem-3 {
+    width: 470px;
+    height: 310px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+     max-width: 100vw;
+}
+
+.servicos__imagem-4 {
+    width: 450px;
+    height: 275px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+     max-width: 100vw;
+}
+
+.servicos__imagem-5 {
+     width: 400px;
+    height: 270px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+     max-width: 100vw;
+}
